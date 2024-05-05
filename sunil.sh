@@ -16,5 +16,5 @@ git commit -m "Initial commit"
 git remote add origin https://github.com/DevopsPracticeSunil/pushing.git
 
 # Push your code to GitHub
-git push -u origin master
+git push -u origin main
 
